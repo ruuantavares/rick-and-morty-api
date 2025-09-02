@@ -1,0 +1,9 @@
+header {
+    background-color: #90ba12;
+    color: white;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Alinhas Verticalmente*/
+    justify-content: center; /* Alinhar Horizontalmente*/
+}
